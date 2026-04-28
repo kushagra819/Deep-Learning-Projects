@@ -1,8 +1,8 @@
 # Deep Learning Projects using TensorFlow
 
-This repository contains a collection of deep learning experiments and small projects that I worked on as part of my coursework and practice.
+This repository contains a collection of deep learning experiments and small projects that I worked on as part of my coursework and practice
 
-The goal of this repository is to build a practical understanding of how different deep learning models behave on different types of data such as images, text, and time-series.
+The goal of this repository is to build a practical understanding of how different deep learning models behave on different types of data such as images, text and time-series.
 
 ---
 
@@ -11,7 +11,7 @@ The goal of this repository is to build a practical understanding of how differe
 ### CNN Classification
 - Implemented Convolutional Neural Networks (CNN) for image classification using MNIST and Fashion MNIST datasets
 - Understood how convolutional layers extract spatial features from images
-- Explored the role of filters, pooling layers, and activation functions in improving model performance
+- Explored the role of filters, pooling layers and activation functions in improving model performance
 
 ---
 
@@ -22,7 +22,7 @@ The goal of this repository is to build a practical understanding of how differe
   - Time-series prediction
   - Sales forecasting
 - Learned how sequential models capture dependencies over time
-- Observed limitations of simple RNNs and how LSTM helps in handling long-term dependencies
+- Observed limitations of simple RNNs and how LSTM helps in handling long term dependencies
 
 ---
 
@@ -52,12 +52,12 @@ The goal of this repository is to build a practical understanding of how differe
 
 ## 🧠 What I Learned
 
-- How CNNs work for image-based tasks and how feature extraction happens through layers
+- How CNNs work for image based tasks and how feature extraction happens through layers
 - Difference between traditional ML models and deep learning approaches
 - Importance of preprocessing in NLP tasks and how it directly affects model performance
 - How RNN and LSTM models handle sequential data like text and time-series
-- Concepts like overfitting, validation, and model generalization
-- Practical understanding of training pipelines including data splitting, model training, and evaluation
+- Concepts like overfitting, validation and model generalization
+- Practical understanding of training pipelines including data splitting, model training and evaluation
 
 ---
 
@@ -75,11 +75,11 @@ The goal of this repository is to build a practical understanding of how differe
 
 1. Clone the repository  
 2. Open the notebooks in Jupyter Notebook or Google Colab  
-3. Run all cells step-by-step to reproduce results  
+3. Run all cells step by step to reproduce results  
 
 ---
 
-## 📌 Note
+## 📌
 
 This repository is focused on learning and building fundamentals in deep learning.  
 It includes implementations across different domains to understand how models behave in real scenarios rather than focusing only on theory.
